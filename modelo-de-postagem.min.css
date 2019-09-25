@@ -27,7 +27,7 @@ footer a:hover{color:#3e3739}
 .title-info h4{font-size:1.4rem}
 .template{display:flex;align-items:start;flex-wrap:wrap}
 .template-widget{margin-bottom:1.5rem;overflow:hidden;box-shadow:0 10px 20px rgba(0,0,0,.5),0 6px 6px rgba(0,0,0,.4)}
-.template-widget__title{font-size:1.2rem;padding:1.2rem 1.5rem;margin-bottom:0;color:#fdfbf7;background-color:#2f2c2d;box-shadow:0 4px 0 -3px rgba(255,255,255,.2) inset,0 -40px 80px -40px rgba(0,0,0,.3) inset,0 40px 80px -40px rgba(255,255,255,.15) inset;border-radius:4px 4px 0 0}
+.template-widget__title{font-size:1.2rem;padding:1.2rem 1.5rem;margin-bottom:0;color:#fdfbf7;background-color:#e87f33;box-shadow:0 4px 0 -3px rgba(255,255,255,.2) inset,0 -40px 80px -40px rgba(0,0,0,.3) inset,0 40px 80px -40px rgba(255,255,255,.15) inset;border-radius:4px 4px 0 0}
 .template-widget__content{width:100%;padding:1.5rem;background:#fff}
 .template-blog,.template-sidebar,.template-sidebar .example-grid__item{width:100%}
 .template-sidebar .example-grid__item{padding:0;margin:0}
